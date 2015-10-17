@@ -1,0 +1,7 @@
+maintainer "Mats Malmberg"
+maintainer_email "matsmalmberg86@gmail.com"
+license "none"
+description "buildserver"
+long_description "buildserver running jenkins"
+version "0.1"
+supports "debian"
